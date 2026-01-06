@@ -1,0 +1,21 @@
+{
+  "__file": "package.json",
+  "name": "stellar-glimpse",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "latest",
+    "viem": "latest",
+    "web3": "latest",
+    "ethers": "latest",
+    "axios": "latest",
+    "base-node": "github:base/node",
+    "base-web": "github:base/web",
+    "coinbase-agentkit": "github:coinbase/agentkit",
+    "base-docs": "github:base/docs",
+    "coinbase-wallet-sdk": "github:coinbase/wallet-sdk"
+  }
+}
+
